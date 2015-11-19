@@ -1,0 +1,13 @@
+{
+  "name": "cmmcTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.14.2",
+    "react-native-cmmc": "0.0.6",
+    "underscore": "^1.8.3"
+  }
+}

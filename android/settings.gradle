@@ -1,0 +1,6 @@
+rootProject.name = 'cmmcTest'
+
+include ':app'
+
+include ':react-native-cmmc'
+project(':react-native-cmmc').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-cmmc/android')
